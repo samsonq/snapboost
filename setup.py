@@ -31,7 +31,7 @@ except Exception as e:
 
 setup(
     name="snapboost",
-    version="0.1.1",
+    version="0.1.2",
     author="Samson Qian",
     author_email="samsonqian@gmail.com",
     packages=["snapboost"],
